@@ -1,7 +1,7 @@
 ## Hello there! 👋
-I'm Cameron S., a programming student.
-I am not currently searching for work as I still have many things to learn.
-Just for reference, I don't really care about pronouns used for me, but he/him or they/them is preferred!
+I'm Cameron S., a programming student.    
+I am not currently searching for work as I still have many things to learn.    
+Just for reference, I don't really care about pronouns used for me, but he/him or they/them is preferred!    
 
 <p align='left'> 
 My LinkedIn Profile (not real yet)<a href="https://www.google.com">LinkedIn(example link)</a>
