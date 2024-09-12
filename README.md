@@ -4,7 +4,8 @@ I am not currently searching for work as I still have many things to learn.
 Just for reference, I don't really care about pronouns used for me, but he/him or they/them is preferred!
 
 <p align='left'> 
-<a href="https://www.google.com">LinkedIn(example link)</a> 
+<a href="https://www.google.com">LinkedIn(example link)</a>
+<br>
 📫 How to reach me: <a href='mailto:camerongithubforinst@gmail.com'>camerongithubforinst@gmail.com</a> 
 </p> 
 
