@@ -29,6 +29,16 @@ _2020 to Present_
      - Balance and patching
      - +More
 
+## Technology I can use...
+### Programming Languages
+- Java
+- HTML & CSS
+- C#
+- Markdown
+
+## Softwares
+- Microsoft Visual Studio
+
 <p align='center'> 
    <a href="https://github-readme-stats.vercel.app/api?username=CameronClassicCI&show_icons=true&count_private=true"> 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=CameronClassicCI&show_icons=true&count_private=true"/> 
