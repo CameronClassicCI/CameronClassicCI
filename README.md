@@ -9,7 +9,7 @@ My LinkedIn Profile (not real yet)<a href="https://www.google.com">LinkedIn(exam
 How to reach me: <a href='mailto:camerongithubforinst@gmail.com'>camerongithubforinst@gmail.com</a> 
 </p> 
 
-## Experience I currently have...
+## Experience I currently have... 📓
 ### Genesee Career Institute
 _2023 to Present_
 
@@ -17,7 +17,7 @@ _2023 to Present_
 - Currently learning **Java** through CodeHS, second year (2024-Present)
      - I plan for Java to be one of my main coding languages. It is a large priority for me this year.
 
-## What I'm looking for...
+## What I'm looking for... 🔭
 ### Game Development
 _2020 to Present_
 
@@ -29,7 +29,7 @@ _2020 to Present_
      - Balance and patching
      - +More
 
-## Technology I can use...
+## Technology I can use... 🖥️
 ### Programming Languages
 - Java
 - HTML & CSS
